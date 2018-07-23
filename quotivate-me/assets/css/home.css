@@ -1,8 +1,10 @@
 body{
     width: 400px;
     height: 200px;
-    background-color: dodgerblue;
+    background-size:cover;
+    /*background-image: url("../../1.jpg");*/
 }
+
 
 #heading{
     font-family: 'Karla', sans-serif;
@@ -19,8 +21,23 @@ body{
 
 .whiteText{
     color: white;
+    text-shadow: 2px 2px #000000;
 }
 
 .azureText{
     color: azure;
+    text-shadow: 2px 2px #000000;
+}
+
+.shadow{
+    text-shadow: 2px 2px #000000;
+}
+
+.icon{
+    width: 3em;
+}
+
+.large-text{
+    font-size: 3em;
+    margin-left: 1.5em;
 }

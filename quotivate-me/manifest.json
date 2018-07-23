@@ -3,13 +3,19 @@
     "name": "Quotivate-Me",
     "version": "1.0",
     "description": "Extension to Motivate People",
+    "permissions": [
+        "notifications"
+    ],
     "icons":{
-        "128": "icons/icon128.png",
-        "48": "icons/icon48.png",
-        "16": "icons/icon16.png"
+        "128": "icons/icon.png",
+        "48": "icons/icon.png",
+        "16": "icons/icon.png"
     },
     "browser_action":{
-        "default_icon": "icons/icon16.png",
+        "default_icon": "icons/icon.png",
         "default_popup": "index.html"
-    }
+    },
+    "web_accessible_resources": [
+        "1.jpg"
+    ]
 }

@@ -2,10 +2,212 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c6702d6-7339-4adb-a96b-8d97a4f81194" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/css/home.css" afterPath="$PROJECT_DIR$/quotivate-me/assets/css/home.css" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/home.js" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/home.js" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/index.html" afterPath="$PROJECT_DIR$/quotivate-me/index.html" />
+      <change afterPath="$PROJECT_DIR$/quotivate-me/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Quotivate-Me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Quotivate-Me.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/001.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/001.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/002.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/003.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/004.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/005.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/005.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/006.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/006.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/007.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/007.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/008.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/008.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/009.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/009.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/010.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/010.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/011.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/011.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/012.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/012.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/013.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/013.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/014.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/014.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/015.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/016.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/017.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/018.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/018.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/019.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/020.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/020.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/021.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/021.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/022.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/022.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/023.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/023.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/024.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/024.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/025.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/025.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/026.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/026.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/027.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/027.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/028.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/028.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/029.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/029.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/030.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/030.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/031.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/031.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/032.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/032.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/033.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/033.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/034.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/034.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/035.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/035.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/036.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/036.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/037.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/037.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/038.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/038.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/039.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/039.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/040.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/040.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/041.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/041.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/042.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/042.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/043.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/043.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/044.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/044.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/045.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/045.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/046.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/046.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/047.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/047.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/048.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/048.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/049.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/049.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/050.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/050.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/051.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/051.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/052.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/052.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/053.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/053.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/054.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/054.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/055.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/055.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/056.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/056.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/057.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/057.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/058.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/058.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/059.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/059.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/060.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/060.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/061.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/061.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/062.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/062.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/063.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/063.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/064.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/064.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/065.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/065.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/066.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/066.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/067.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/067.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/068.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/068.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/069.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/069.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/070.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/070.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/071.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/071.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/072.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/072.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/073.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/073.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/074.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/074.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/075.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/075.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/076.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/076.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/077.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/077.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/078.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/078.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/079.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/079.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/080.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/080.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/081.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/081.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/082.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/082.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/083.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/083.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/084.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/084.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/085.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/085.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/086.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/086.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/087.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/087.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/088.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/088.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/089.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/089.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/090.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/090.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/091.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/091.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/092.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/092.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/093.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/093.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/094.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/094.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/095.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/095.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/096.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/096.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/097.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/097.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/098.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/098.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/099.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/099.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/100.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/101.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/101.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/102.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/102.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/104.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/104.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/105.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/105.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/106.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/106.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/107.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/107.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/108.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/108.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/109.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/109.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/110.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/110.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/111.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/111.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/112.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/112.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/113.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/113.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/114.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/114.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/115.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/115.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/116.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/116.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/117.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/117.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/118.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/118.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/119.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/119.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/120.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/120.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/121.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/121.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/122.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/122.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/123.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/123.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/124.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/124.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/125.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/125.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/126.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/126.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/127.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/127.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/128.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/128.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/129.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/129.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/130.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/130.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/131.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/131.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/132.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/132.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/133.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/133.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/134.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/134.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/135.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/135.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/136.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/136.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/137.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/137.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/138.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/138.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/139.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/139.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/140.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/140.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/data/141.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/141.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/icons/icon128.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/icons/icon128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/icons/icon16.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/icons/icon16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/icons/icon48.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/icons/icon48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/manifest.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,29 +224,35 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="557">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-563">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="122">
+              <caret line="69" column="21" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,8 +260,7 @@
       <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -63,15 +270,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getRandomQuote`</find>
+      <find>readFromFile</find>
+      <find>getWallpaper</find>
+      <find>rand</find>
+      <find>giveVa</find>
+      <find>getRandomFile</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/quotivate-me/assets/css/home.css" />
-        <option value="$PROJECT_DIR$/quotivate-me/index.html" />
+        <option value="$PROJECT_DIR$/quotivate-me/manifest.json" />
         <option value="$PROJECT_DIR$/quotivate-me/assets/js/home.js" />
+        <option value="$PROJECT_DIR$/quotivate-me/index.html" />
+        <option value="$PROJECT_DIR$/quotivate-me/assets/css/home.css" />
       </list>
     </option>
   </component>
@@ -81,27 +299,21 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="704" />
+    <option name="y" value="27" />
+    <option name="width" value="1338" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,28 +337,35 @@
               <item name="Quotivate-Me" type="462c0819:PsiDirectoryNode" />
               <item name="quotivate-me" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Quotivate-Me" type="b2602c69:ProjectViewProjectNode" />
               <item name="Quotivate-Me" type="462c0819:PsiDirectoryNode" />
               <item name="quotivate-me" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quotivate-me" />
+      <recent name="$PROJECT_DIR$/quotivate-me/assets/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quotivate-me" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,8 +379,13 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="RunManager">
+    <configuration name="home.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="home.js" working-dir="$PROJECT_DIR$/quotivate-me/assets/js" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.home.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -180,34 +404,48 @@
       <workItem from="1519311289315" duration="598000" />
       <workItem from="1519372699963" duration="5048000" />
       <workItem from="1520045084286" duration="1320000" />
-      <workItem from="1520864878386" duration="1662000" />
+      <workItem from="1520864878386" duration="1665000" />
+      <workItem from="1520917676335" duration="10000" />
+      <workItem from="1520929275659" duration="1468000" />
+      <workItem from="1521015880268" duration="2413000" />
+      <workItem from="1521032948000" duration="17000" />
+      <workItem from="1521088648304" duration="2090000" />
+      <workItem from="1528032679325" duration="7353000" />
+      <workItem from="1529154308448" duration="4221000" />
+      <workItem from="1529242466670" duration="3491000" />
+      <workItem from="1529761797862" duration="3364000" />
+      <workItem from="1529807366112" duration="1362000" />
+      <workItem from="1529892678552" duration="1700000" />
+      <workItem from="1530327022848" duration="2396000" />
+      <workItem from="1532155316337" duration="7368000" />
+      <workItem from="1532350661537" duration="1646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14675000" />
+    <option name="totallyTimeSpent" value="53577000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1366" height="738" extended-state="6" />
+    <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12884334" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,30 +455,192 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="43" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="34" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="96" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="90" column="34" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="96" selection-start-line="3" selection-start-column="96" selection-end-line="3" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="92" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -250,31 +650,27 @@
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding />
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -284,31 +680,27 @@
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
-          <caret line="65" column="52" lean-forward="false" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="52" />
-          <folding />
+          <caret line="65" column="52" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -318,31 +710,27 @@
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -352,16 +740,7 @@
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
@@ -369,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -377,89 +755,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding />
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+    <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-563">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="122">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
         </state>
       </provider>
     </entry>

@@ -1,13 +1,19 @@
-//Event Listeners
-document.addEventListener('DOMContentLoaded', getRandomFile());
+document.addEventListener('DOMContentLoaded', getRandomFile(141));
+document.addEventListener('DOMContentLoaded', getWallpaper(50));
+document.getElementById("myButton").addEventListener("click", notifyQuotes);
 
-document.getElementById("notify").addEventListener("click", function(){
-    if(Notification.permission !== "granted"){
-        Notification.requestPermission();
-    }
-    else{
-    }
-});
+
+// document.getElementById("notify").addEventListener("click", function(){
+//     if(Notification.permission !== "granted"){
+//         Notification.requestPermission();
+//     }
+//     else{
+//     }
+// });
+
+/*
+Check whether the user has granted notification option.
+*/
 
 document.addEventListener('DOMContentLoaded', function(){
     if(!Notification){
@@ -20,6 +26,7 @@ document.addEventListener('DOMContentLoaded', function(){
 });
 
 var fileCounter = 0;
+var quoteList = [];
 
 function readTextFile(file, callback) {
     var rawFile = new XMLHttpRequest();
@@ -29,13 +36,12 @@ function readTextFile(file, callback) {
         if (rawFile.readyState === 4 && rawFile.status == "200") {
             callback(rawFile.responseText);
             ++fileCounter;
-            // console.log(fileCounter);
         }
-    }
+    };
     rawFile.send(null);
 }
 
-function getRandomQuote(range)
+function getRandomNumber(range)
 {
     return Math.floor(Math.random() * range) + 1;
 }
@@ -44,9 +50,11 @@ function readFromFile(path, fileNumber)
 {
     readTextFile(path + fileNumber, function(text){
         var data = JSON.parse(text);
-        var randomQuoteNumber = getRandomQuote(Object.keys(data).length);
+        var randomQuoteNumber = (Object.keys(data).length);
         document.getElementById("quote").innerText = data["data"][randomQuoteNumber]["quote"];
         document.getElementById("author").innerText = "- " + data["data"][randomQuoteNumber]["author"];
+        quoteList.push(data["data"][randomQuoteNumber]["quote"]);
+        quoteList.push(data["data"][randomQuoteNumber]["author"]);
     });
 }
 
@@ -61,7 +69,7 @@ function cleanName(fileNumber) {
 
 function getFileCount() {
     var path = "/data/";
-    for(var i = 1; i < 500 ; i++)
+    for(var i = 1; i < 141 ; i++)
     {
         var fileName = cleanName(i);
         fileName += ".json";
@@ -73,16 +81,51 @@ function getFileCount() {
             console.log(e);
         }
     }
-    console.log(fileCounter);
 }
 
-function getRandomFile()
+function getRandomFile(limit)
 {
     var path = "/data/";
-    var totalFiles = getFileCount();
-    var fileNumber = (Math.floor(Math.random() * 141));
+    var fileNumber = (Math.floor(Math.random() * limit));
     var fileName = cleanName(fileNumber);
     fileName += ".json";
-    console.log(fileName);
     readFromFile(path, fileName);
+}
+
+function getWallpaper(limit){
+    var imageName = getRandomNumber(limit);
+    var imgUrl = chrome.extension.getURL("assets/images/background/" + imageName + ".jpg");
+    document.body.style.backgroundImage = "url('" + imgUrl + "')";
+    document.body.style.backgroundSize = "cover";
+    document.body.style.backgroundPosition = "top center !important";
+    document.body.style.backgroundRepeat = "no-repeat !important";
+    document.body.style.backgroundAttachment = "fixed";
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+    if (!Notification) {
+        alert('Desktop notifications not available in your browser. Try Chromium.');
+        return;
+    }
+
+    if (Notification.permission !== "granted")
+        Notification.requestPermission();
+});
+
+function notifyQuotes() {
+    if (Notification.permission !== "granted")
+        Notification.requestPermission();
+    else {
+
+        var notification = new Notification('Stay Motivated!', {
+            icon: 'icons/icon.png',
+            body: quoteList[0] + " - " + quoteList[1],
+        });
+
+        notification.onclick = function () {
+            window.open("http://stackoverflow.com/a/13328397/1269037");
+        };
+
+    }
+
 }
