@@ -2,212 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c6702d6-7339-4adb-a96b-8d97a4f81194" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/quotivate-me/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Quotivate-Me.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Quotivate-Me.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/27.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/29.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/30.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/31.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/32.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/33.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/34.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/35.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/36.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/37.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/38.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/39.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/40.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/41.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/42.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/43.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/44.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/45.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/46.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/47.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/48.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/49.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/50.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/background/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/background/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/001.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/001.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/002.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/002.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/003.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/003.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/004.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/004.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/005.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/005.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/006.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/006.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/007.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/007.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/008.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/008.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/009.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/009.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/010.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/010.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/011.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/011.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/012.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/012.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/013.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/013.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/014.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/014.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/015.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/015.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/016.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/016.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/017.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/017.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/018.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/018.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/019.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/019.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/020.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/020.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/021.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/021.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/022.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/022.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/023.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/023.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/024.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/024.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/025.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/025.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/026.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/026.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/027.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/027.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/028.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/028.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/029.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/029.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/030.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/030.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/031.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/031.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/032.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/032.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/033.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/033.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/034.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/034.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/035.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/035.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/036.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/036.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/037.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/037.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/038.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/038.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/039.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/039.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/040.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/040.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/041.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/041.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/042.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/042.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/043.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/043.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/044.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/044.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/045.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/045.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/046.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/046.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/047.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/047.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/048.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/048.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/049.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/049.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/050.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/050.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/051.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/051.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/052.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/052.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/053.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/053.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/054.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/054.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/055.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/055.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/056.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/056.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/057.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/057.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/058.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/058.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/059.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/059.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/060.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/060.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/061.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/061.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/062.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/062.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/063.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/063.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/064.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/064.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/065.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/065.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/066.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/066.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/067.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/067.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/068.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/068.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/069.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/069.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/070.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/070.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/071.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/071.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/072.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/072.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/073.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/073.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/074.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/074.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/075.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/075.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/076.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/076.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/077.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/077.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/078.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/078.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/079.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/079.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/080.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/080.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/081.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/081.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/082.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/082.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/083.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/083.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/084.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/084.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/085.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/085.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/086.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/086.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/087.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/087.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/088.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/088.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/089.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/089.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/090.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/090.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/091.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/091.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/092.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/092.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/093.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/093.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/094.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/094.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/095.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/095.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/096.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/096.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/097.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/097.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/098.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/098.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/099.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/099.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/100.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/100.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/101.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/101.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/102.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/102.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/104.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/104.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/105.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/105.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/106.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/106.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/107.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/107.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/108.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/108.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/109.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/109.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/110.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/110.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/111.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/111.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/112.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/112.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/113.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/113.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/114.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/114.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/115.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/115.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/116.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/116.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/117.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/117.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/118.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/118.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/119.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/119.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/120.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/120.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/121.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/121.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/122.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/122.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/123.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/123.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/124.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/124.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/125.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/125.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/126.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/126.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/127.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/127.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/128.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/128.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/129.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/129.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/130.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/130.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/131.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/131.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/132.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/132.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/133.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/133.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/134.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/134.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/135.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/135.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/136.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/136.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/137.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/137.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/138.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/138.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/139.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/139.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/140.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/140.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/data/141.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/data/141.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/icons/icon128.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/icons/icon128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/icons/icon16.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/icons/icon16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/icons/icon48.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/icons/icon48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/images/icons/settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/images/icons/settings.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quotivate-me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/manifest.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -221,19 +19,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
+            <state relative-caret-position="615">
               <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
             </state>
           </provider>
@@ -251,7 +49,7 @@
       <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="1035">
               <caret line="69" column="21" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="21" />
             </state>
           </provider>
@@ -288,8 +86,8 @@
       <list>
         <option value="$PROJECT_DIR$/quotivate-me/manifest.json" />
         <option value="$PROJECT_DIR$/quotivate-me/assets/js/home.js" />
-        <option value="$PROJECT_DIR$/quotivate-me/index.html" />
         <option value="$PROJECT_DIR$/quotivate-me/assets/css/home.css" />
+        <option value="$PROJECT_DIR$/quotivate-me/index.html" />
       </list>
     </option>
   </component>
@@ -313,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,25 +127,19 @@
               <item name="Quotivate-Me" type="b2602c69:ProjectViewProjectNode" />
               <item name="Quotivate-Me" type="462c0819:PsiDirectoryNode" />
               <item name="quotivate-me" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Quotivate-Me" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quotivate-Me" type="462c0819:PsiDirectoryNode" />
-              <item name="quotivate-me" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Quotivate-Me" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quotivate-Me" type="462c0819:PsiDirectoryNode" />
-              <item name="quotivate-me" type="462c0819:PsiDirectoryNode" />
               <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Quotivate-Me" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quotivate-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="quotivate-me" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,12 +209,14 @@
       <workItem from="1529892678552" duration="1700000" />
       <workItem from="1530327022848" duration="2396000" />
       <workItem from="1532155316337" duration="7368000" />
-      <workItem from="1532350661537" duration="1646000" />
+      <workItem from="1532350661537" duration="2246000" />
+      <workItem from="1532400228876" duration="1230000" />
+      <workItem from="1532412666380" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53577000" />
+    <option name="totallyTimeSpent" value="56019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
@@ -443,9 +236,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -818,22 +611,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
+        <state relative-caret-position="1035">
           <caret line="69" column="21" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
+        <state relative-caret-position="615">
           <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
