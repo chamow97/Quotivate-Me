@@ -6,6 +6,11 @@
     "permissions": [
         "notifications"
     ],
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true
+    },
+    "options_page":"options.html",
     "icons":{
         "128": "icons/icon.png",
         "48": "icons/icon.png",
