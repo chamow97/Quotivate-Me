@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c6702d6-7339-4adb-a96b-8d97a4f81194" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/quotivate-me/assets/css/options.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quotivate-me/assets/js/options.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotivate-me/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/css/options.css" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/css/options.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotivate-me/assets/js/options.js" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/assets/js/options.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quotivate-me/options.html" beforeDir="false" afterPath="$PROJECT_DIR$/quotivate-me/options.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -44,8 +39,8 @@
       <file leaf-file-name="options.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/options.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="255">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -53,8 +48,8 @@
       <file leaf-file-name="options.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/options.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-418">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="315">
+              <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -71,8 +66,8 @@
       <file leaf-file-name="options.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/options.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -80,7 +75,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-90">
               <caret column="33" selection-end-line="1" />
             </state>
           </provider>
@@ -131,8 +126,8 @@
         <option value="$PROJECT_DIR$/quotivate-me/assets/css/index.css" />
         <option value="$PROJECT_DIR$/quotivate-me/assets/js/index.js" />
         <option value="$PROJECT_DIR$/quotivate-me/manifest.json" />
-        <option value="$PROJECT_DIR$/quotivate-me/options.html" />
         <option value="$PROJECT_DIR$/quotivate-me/assets/css/options.css" />
+        <option value="$PROJECT_DIR$/quotivate-me/options.html" />
         <option value="$PROJECT_DIR$/quotivate-me/assets/js/options.js" />
       </list>
     </option>
@@ -283,12 +278,12 @@
       <workItem from="1532495733818" duration="597000" />
       <workItem from="1532530668356" duration="7329000" />
       <workItem from="1532665673044" duration="6849000" />
-      <workItem from="1532712113191" duration="11388000" />
+      <workItem from="1532712113191" duration="14132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82802000" />
+    <option name="totallyTimeSpent" value="85546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1372" height="745" extended-state="6" />
@@ -658,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -672,31 +660,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/options.css">
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="-90">
+          <caret column="33" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/index.js">
+    <entry file="file://$PROJECT_DIR$/quotivate-me/assets/css/options.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-end-line="1" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotivate-me/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/options.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quotivate-me/assets/js/options.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        <state relative-caret-position="315">
+          <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
         </state>
       </provider>
     </entry>

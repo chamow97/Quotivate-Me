@@ -5,3 +5,7 @@
 .success {
     color: green;
 }
+
+.input-box {
+    width: 40px;
+}
