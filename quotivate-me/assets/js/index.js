@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', getRandomFile(141));
 document.addEventListener('DOMContentLoaded', getWallpaper(50));
 document.getElementById("myButton").addEventListener("click", notifyQuotes);
-
+document.getElementById('system-icon').addEventListener("click", openSettings)
 
 // document.getElementById("notify").addEventListener("click", function(){
 //     if(Notification.permission !== "granted"){
@@ -123,9 +123,13 @@ function notifyQuotes() {
         });
 
         notification.onclick = function () {
-            window.open("http://stackoverflow.com/a/13328397/1269037");
+            window.open("chrome://extensions");
         };
 
     }
 
+}
+
+function openSettings() {
+    window.open("chrome://extensions/?options=iidpmelpaaoebcifegmkdafnbhfhefei");
 }

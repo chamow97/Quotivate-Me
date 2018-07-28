@@ -4,11 +4,12 @@
     "version": "1.0",
     "description": "Extension to Motivate People",
     "permissions": [
+        "storage",
         "notifications"
     ],
     "options_ui": {
         "page": "options.html",
-        "open_in_tab": true
+        "open_in_tab": false
     },
     "options_page":"options.html",
     "icons":{
