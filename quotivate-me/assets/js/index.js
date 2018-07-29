@@ -1,18 +1,14 @@
+/*
+* Event Listeners
+*/
+
 document.addEventListener('DOMContentLoaded', getRandomFile(141));
 document.addEventListener('DOMContentLoaded', getWallpaper(50));
 document.getElementById("myButton").addEventListener("click", notifyQuotes);
-document.getElementById('system-icon').addEventListener("click", openSettings)
-
-// document.getElementById("notify").addEventListener("click", function(){
-//     if(Notification.permission !== "granted"){
-//         Notification.requestPermission();
-//     }
-//     else{
-//     }
-// });
+document.getElementById('system-icon').addEventListener("click", openSettings);
 
 /*
-Check whether the user has granted notification option.
+* Check whether the user has granted notification option.
 */
 
 document.addEventListener('DOMContentLoaded', function(){
@@ -25,8 +21,15 @@ document.addEventListener('DOMContentLoaded', function(){
     }
 });
 
+//global variables
+
 var fileCounter = 0;
 var quoteList = [];
+
+/*
+* readTextFile()
+* Open a file and check for its status ie. 200 (success)
+*/
 
 function readTextFile(file, callback) {
     var rawFile = new XMLHttpRequest();
@@ -41,10 +44,20 @@ function readTextFile(file, callback) {
     rawFile.send(null);
 }
 
+/*
+* getRandomNumber()
+* To get a random number for selecting a quote / background
+*/
+
 function getRandomNumber(range)
 {
     return Math.floor(Math.random() * range) + 1;
 }
+
+/*
+* readFromFile()
+* Get the contents of a file and append it to nodes ie. quote and author
+*/
 
 function readFromFile(path, fileNumber)
 {
@@ -58,6 +71,11 @@ function readFromFile(path, fileNumber)
     });
 }
 
+/*
+* cleanName()
+* To clean the name for e.g. 1 to 001 , 11 to 011 as file names are 3 digit numbers
+*/
+
 function cleanName(fileNumber) {
     var currentLength = fileNumber.toString().length;
     for(var i = 0; i < (3 - currentLength); i++)
@@ -66,6 +84,11 @@ function cleanName(fileNumber) {
     }
     return fileNumber;
 }
+
+/*
+* getFileCount()
+* Get the count of files
+*/
 
 function getFileCount() {
     var path = "/data/";
@@ -83,6 +106,11 @@ function getFileCount() {
     }
 }
 
+/*
+* getRandomeFile
+* Get a random .json quote file for generating the quote
+*/
+
 function getRandomFile(limit)
 {
     var path = "/data/";
@@ -91,6 +119,11 @@ function getRandomFile(limit)
     fileName += ".json";
     readFromFile(path, fileName);
 }
+
+/*
+* getWallpaper()
+* Get Random Wallpaper for the Extension
+*/
 
 function getWallpaper(limit){
     var imageName = getRandomNumber(limit);
@@ -102,6 +135,10 @@ function getWallpaper(limit){
     document.body.style.backgroundAttachment = "fixed";
 }
 
+/*
+* See whether the user has enabled notification
+*/
+
 document.addEventListener('DOMContentLoaded', function () {
     if (!Notification) {
         alert('Desktop notifications not available in your browser. Try Chromium.');
@@ -111,6 +148,12 @@ document.addEventListener('DOMContentLoaded', function () {
     if (Notification.permission !== "granted")
         Notification.requestPermission();
 });
+
+
+/*
+* notifyQuotes()
+* Method to generate quote as a notification
+*/
 
 function notifyQuotes() {
     if (Notification.permission !== "granted")
@@ -129,6 +172,11 @@ function notifyQuotes() {
     }
 
 }
+
+/*
+* openSetting()
+* A function to open Notification's settings page on demand
+*/
 
 function openSettings() {
     window.open("chrome://extensions/?options=iidpmelpaaoebcifegmkdafnbhfhefei");
